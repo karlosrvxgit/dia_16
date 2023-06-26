@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <h1>Carlos Rojas</h1>
+        <h1>Carlos Rojas vega</h1>
 
       </div>
 
